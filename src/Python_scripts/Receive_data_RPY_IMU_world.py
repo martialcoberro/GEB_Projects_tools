@@ -16,7 +16,7 @@ BUFFER_SIZE = 2048
 
 TARGET_DEVICE = "G4_Endo" # Change to the group number
 
-object_NAME = "surgical_needle"   # RoboDK Object
+object_NAME = "plane"   # RoboDK Object
 world_NAME  = "world"     # RoboDK Frame
 
 # Apply/update frequency
