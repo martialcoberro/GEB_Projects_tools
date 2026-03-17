@@ -11,8 +11,8 @@ Once we had made all the changes, the digital object moved according to the ESP3
 
 Image of the plane setup in our computer: 
 <img align="left" width="400" height="350" 
-src="https://drive.google.com/file/d/1EqLlWQEA-VEuMBlfMKbfbKgKJg8-37Qg/view?usp=sharing"> 
+src="https://drive.google.com/uc?export=view&id=1EqLlWQEA-VEuMBlfMKbfbKgKJg8-37Qg"> 
 
 Image of the surgical needle setup in our computer: 
 <img align="left" width="400" height="350" 
-src="https://drive.google.com/file/d/1TXf3if81K7VXhsEo530Tu6KjLh3-i_Tj/view?usp=sharing"> 
+src="https://drive.google.com/uc?export=view&id=1TXf3if81K7VXhsEo530Tu6KjLh3-i_Tj"> 
