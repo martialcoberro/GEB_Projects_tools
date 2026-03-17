@@ -10,9 +10,7 @@ At first, we could only move the plane or the surgical needle independently from
 Once we had made all the changes, the digital object moved according to the ESP32 sensor, so we only had to calibrate the system in order to align the axis from both digital and physical objects, then we saw that the plane or needle moved properly along with the ESP32. So we reckon that a system like this one could be used to monitor the orientation in space of an object of our preference.
 
 Image of the plane setup in our computer: 
-<img align="left" width="400" height="350" 
-src="https://drive.google.com/uc?export=view&id=1EqLlWQEA-VEuMBlfMKbfbKgKJg8-37Qg"> 
+![foto avio](https://drive.google.com/uc?export=view&id=1EqLlWQEA-VEuMBlfMKbfbKgKJg8-37Qg)
 
 Image of the surgical needle setup in our computer: 
-<img align="left" width="400" height="350" 
-src="https://drive.google.com/uc?export=view&id=1TXf3if81K7VXhsEo530Tu6KjLh3-i_Tj"> 
+![foto agulla](https://drive.google.com/uc?export=view&id=1TXf3if81K7VXhsEo530Tu6KjLh3-i_Tj)
